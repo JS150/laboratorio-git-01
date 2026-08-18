@@ -7,3 +7,10 @@ de software.
 
 En esta actividad estoy aprendiendo a utilizar Git y GitHub para gestionar
 versiones y cambios en proyectos de software.
+
+
+# Mis intereses
+
+- Bases de datos
+- Desarrollo de software
+- Ciberseguridad
