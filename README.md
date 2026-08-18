@@ -14,3 +14,9 @@ versiones y cambios en proyectos de software.
 - Bases de datos
 - Desarrollo de software
 - Ciberseguridad
+
+
+# Objetivo de la actividad
+
+Aprender a utilizar Git y GitHub para gestionar cambios,
+versiones y trabajar de manera colaborativa.
